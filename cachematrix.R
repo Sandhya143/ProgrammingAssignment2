@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ## 1.Initially given matrix is taken and inverse matrix is set to 0.
 ## 2. In "makeCacheMatrix" we dont compute anything. We basically 
 ##  set and get the values using one line functions. 
